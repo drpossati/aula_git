@@ -2,7 +2,4 @@ Hello Word...
 Teste com o git
 
 Ola mundo alterado
-<<<<<<< HEAD
-=======
 
->>>>>>> funcionalidade01
